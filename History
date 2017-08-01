@@ -1,0 +1,60 @@
+
+================================================
+dfsbench 1.0.8 alpha release
+Date:Oct 25th,2011
+Author:
+changelog:
+1. Updated dfsbench script;
+2. updated rwtest.sh;
+================================================
+tsbm 1.0.0.7 alpha release
+Date:May 13th,2011
+Author:
+changelog:
+1. Added blogbench for file system performnce test;
+2. Added rwtest for data compare test;
+3. Added fdtree for mds stress test;
+================================================
+tsbm 1.0.0.6 alpha release
+Date:April 26th,2011
+Author:
+changelog:
+1. Updated fsstress test case for mds stress test;
+2. Updated iozone test case for mds osd stress test;
+=================================================
+tsbm 1.0.0.5 alpha release
+Date:April 15th,2011
+Author:
+changelog:
+1. Updated bonnie++ test case;
+1. Updated iozone test case;
+================================================
+tsbm 1.0.0.4 alpha release
+Date:April 08th,2011
+Author:
+changelog:
+1. Update iozone;
+
+=================================================
+tsbm 1.0.0.3 alpha release
+Date:Feb 22th,2011
+Author:
+changelog:
+1. Update tiotest;
+
+================================================
+tsbm 1.0.0.2 alpha release
+Date:Dec 16th,2010
+Author:
+changelog:
+1. Fixed ffsb log name issue;
+2. Fixed TESTDIR is NULL issue
+3. Fixed iozone min size max size issue;
+===============================================
+tsbm 1.0.0.1 alpha release
+Date:Nov 19th,2010
+Author:
+changelog:
+1. tsbm 1.0.0.1 alpha release;
+2. ffsb iozone dbench bonnie++ postmark tiobench support;
+
